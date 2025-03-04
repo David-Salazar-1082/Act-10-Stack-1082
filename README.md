@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Salida
+
+<img width="1877" alt="shapes at 25-03-04 14 04 53" src="https://github.com/user-attachments/assets/8b50c9c2-becd-4a0b-bee7-a89ba300b9c2" />
+
 
 This project is a starting point for a Flutter application.
 
